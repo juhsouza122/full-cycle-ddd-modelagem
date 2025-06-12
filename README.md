@@ -64,10 +64,12 @@ full-cycke-ddd-modelagem/
 ```bash
 npm install
 
-2. Rodar testes
-
+### 2. Rodar testes
+```bash
 npm test
 
-👩‍💻 Desenvolvido por
+---
+
+###👩‍💻 Desenvolvido por
 
 Julia Souza – Full Cycle Challenger 🚀
