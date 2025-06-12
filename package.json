@@ -1,0 +1,27 @@
+{
+  "name": "full-cycle-ddd-modelagem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juhsouza122/full-cycle-ddd-modelagem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/juhsouza122/full-cycle-ddd-modelagem/issues"
+  },
+  "homepage": "https://github.com/juhsouza122/full-cycle-ddd-modelagem#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^30.0.0",
+    "ts-jest": "^29.4.0",
+    "typescript": "^5.8.3"
+  }
+}
